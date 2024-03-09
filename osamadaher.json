@@ -1,0 +1,51 @@
+{
+	"title": {
+		"media": {
+			"url": "Osama Daher 3.JPG",
+			"caption": "Osama Daher in his younger years.",
+			"credit": ""
+		},
+		"text": {
+			"headline": "Osama Daher 1999 – today",
+			"text": "<p>This is the CV of Osama Daher and his achievements</p>"
+		}
+	},	 
+	
+	
+	"events": [
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"month": "11",
+				"day": "12",
+				"year": "1968"
+			},
+			"text": {
+				"headline": "Osama Daher is born",
+				"text": "<p>Born in Jerusalem at Al-khaldi hospital from parents Wassef Daher and Nahia Bahouth Daher</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"month": "",
+				"day": "",
+				"year": "1986"
+			},
+			"text": {
+				"headline": "High School Diploma",
+				"text": "<p>De La Salle High School, Jerusalem</p>"
+			}
+		}
+	
+	
+	]
+}
